@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#000"
+    android:orientation="vertical"
+    android:paddingTop="10dp"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="7.60"
+        android:weightSum="1">
+
+        <ImageView
+            android:id="@+id/imageViewFilm"
+            android:layout_width="92dp"
+            android:layout_height="100dp"
+            android:layout_weight="0.11"
+             />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewFilmTitle"
+                android:layout_width="267dp"
+                android:layout_height="wrap_content"
+                android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+                android:textColor="@color/colorAccent"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewFilmDate"
+                android:layout_width="267dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.07"
+                android:textColor="#FFF" />
+
+            <TextView
+                android:id="@+id/textViewFilmProduction"
+                android:layout_width="267dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.05"
+                android:textColor="#FFF" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/opis_krotki"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="7.60"
+        android:padding="10dp"
+        android:textColor="#FFF" />
+
+</LinearLayout>

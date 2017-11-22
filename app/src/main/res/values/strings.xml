@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Cinema City</string>
+    <string name="title_news">Nowości</string>
+    <string name="title_films">Filmy</string>
+    <string name="title_contact">Kontakt</string>
+    <string name="title_aboutus">O nas</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="textview">TextView</string>
+    <string name="jakis_tekst">Jakis tekst</string>
+    <string name="opis">Opis:</string>
+    <string name="produkcja">Produkcja:</string>
+    <string name="onas">Cinema City Poland jest częścią grupy Cineworld PLX, która jest jedną z czołowych/wiodących sieci kin w Europie. Cineworld obejmuje 9 krajów: Polskę, Wielką Brytanię, Izrael, Węgry, Czechy, Bułgarię, Rumunię, Słowację oraz Irlandię. Obecnie sieć posiada 222 kina z aż 2049 ekranami oraz obsługuje 3.500.000 projekcji filmowych dla ponad 90 milionów klientów rocznie.</string>
+    <string name="onas2">W Polsce Cinema City jest operatorem 33 kin zlokalizowanymi w 20 miastach, oferując klientom najlepsze doświadczenia filmowe z zastosowaniem technologii IMAX® i ŠKODA 4DX® w wybranych lokalizacjach.
+
+IMAX®
+Warszawa Sadyba, Kraków Plaza, Poznań Plaza,
+Katowice Punkt 44, Łódź Manufaktura
+
+ŠKODA 4DX®
+Warszawa Arkadia, Kraków Bonarka, Lublin Felicity,
+Bydgoszcz, Łódź Manufaktura</string>
+
+    <string-array name="spinnerItems">
+        <item>Wybierz kino</item>
+        <item>Bielsko Biala</item>
+        <item>Bydgoszcz</item>
+        <item>Bytom</item>
+        <item>Gliwice</item>
+        <item>Lodz</item>
+        <item>Warszawa - Zlote Tarasy</item>
+    </string-array>
+    <string-array name="spinnerItems2">
+        <item>Wybierz film</item>
+        <item>American Assassin</item>
+        <item>Na układy nie ma rady</item>
+        <item>TO</item>
+        <item>O czym szumi las</item>
+    </string-array>
+    <string-array name="spinnerItems3">
+        <item>Wybierz date</item>
+        <item>27.09</item>
+        <item>28.09</item>
+        <item>29.09</item>
+    </string-array>
+    <string-array name="spinnerItems4">
+        <item>Wybierz godzine</item>
+        <item>14:00</item>
+        <item>18:00</item>
+        <item>20:00</item>
+    </string-array>
+    <string name="title_activity_maps_activityxd">Map</string>
+    <string name="title_activity_maps_activityxdd">Map</string>
+</resources>
